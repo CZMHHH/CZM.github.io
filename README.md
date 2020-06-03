@@ -9,6 +9,6 @@ wholetrain3.py
 wholetest3.py
 测试文件。
 另外提供一下我下载好的数据地址，拷贝到以上4个文件的同级目录下即可。
-链接：https://pan.baidu.com/s/1rs2wr5vgFiSRlGExFEIqiQ 
-提取码：il5t
+链接：https://pan.baidu.com/s/1UTKyOq1u_vCtvO7_g-ewlQ 
+提取码：jhvg
 具体内容请看我的博客：https://blog.csdn.net/weixin_44381728/article/details/106373071
